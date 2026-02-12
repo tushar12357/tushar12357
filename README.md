@@ -19,7 +19,7 @@
 ### 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redis,typescript,flutter,docker,git,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redis,bullmq,typescript,flutter,docker,git,tailwind,nestjs" />
 </p>
 
 ---
