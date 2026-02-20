@@ -53,6 +53,25 @@
 
 ---
 
+#### 🔹 Private Knowledge
+
+**AI-powered document intelligence system** with scalable, fault-tolerant async processing.
+
+**Highlights:**
+
+- Built a Retrieval-Augmented Generation (RAG) pipeline for conversational PDF interaction.
+- Implemented semantic search using embeddings with Supabase (pgvector) as the vector database.
+- Designed contextual Q&A strictly grounded in uploaded documents to reduce hallucinations.
+- Developed asynchronous document ingestion and embedding workflows for scalability.
+
+**Tech Stack:**
+Next.js, Node.js, Hugging Face, Supabase (Vector DB / pgvector)
+
+🔗 [https://github.com/tushar12357/payment_gateway](https://github.com/tushar12357/private_knowledge)
+
+---
+
+
 #### 🔹 Socialize Backend (Chat App)
 
 **Real-time chat backend** designed for scalability and performance.
@@ -70,14 +89,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar12357&theme=tokyonight" height="180" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tushar12357&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
